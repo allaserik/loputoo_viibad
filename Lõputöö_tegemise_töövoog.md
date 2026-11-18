@@ -1,7 +1,7 @@
 Lõputöö tegemise töövoog
 ===
 
-Koodiloomes koos tehisintellektiga soovitan mõlemal juhul kasutada [OpenSpec](https://openspec.dev/). Nii säilib ülevaade kõigist tehtud muudatustest ja see on sisendiks töö selle osa koostamisele, kus kirjeldatakse tehnilist realisatsiooni.
+Koodiloomes koos tehisintellektiga soovitan mõlemal juhul kasutada [OpenSpeci](https://openspec.dev/). Nii säilib ülevaade kõigist tehtud muudatustest ja see on sisendiks töö selle osa koostamisele, kus kirjeldatakse tehnilist realisatsiooni.
 
 
 # 1. Agendipõhine (Agentic AI) töövoog lõputöö koostamiseks
