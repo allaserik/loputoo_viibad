@@ -1,6 +1,9 @@
 Lõputöö tegemise töövoog
 ===
 
+Koodiloomes koos tehisintellektiga soovitan mõlemal juhul kasutada [OpenSpec](https://openspec.dev/). Nii säilib ülevaade kõigist tehtud muudatustest ja see on sisendiks töö selle osa koostamisele, kus kirjeldatakse tehnilist realisatsiooni.
+
+
 # 1. Agendipõhine (Agentic AI) töövoog lõputöö koostamiseks
 
 Alljärgnev juhis kirjeldab efektiivset töövoogu, kus lõputöö luuakse tervikuna tehisintellekti agentide poolt. Inimese roll selles protsessis on seada piirid, määrata valmisoleku kriteeriumid, tagada sisendandmete kvaliteet ning valideerida lõpptulemus.
@@ -12,7 +15,7 @@ Alljärgnev juhis kirjeldab efektiivset töövoogu, kus lõputöö luuakse tervi
 Kloonige lõputöö viipade ja kontrollide Giti repositoorium oma arvutisse.
 
 **2. Agentse arendusvahendi seadistamine ja oskuste loomine**
-Käivitage kaasaegne failisüsteemile ligipääsu omav agentse arenduse vahend (nt OpenAI Codex, Claude Code või Antigravity). Laske vahendil töötada kloonitud repositooriumi viibad ümber oma spetsiifilisteks oskusteks / pistikuteks / laiendusteks. Need uued oskused annavad agendile võimekuse muuta otse Teie lõputöö faili, lähtudes akadeemilistest nõuetest.
+Käivitage kaasaegne failisüsteemile ligipääsu omav agentse arenduse vahend (nt OpenAI Codex, Claude Code või Antigravity). Laske vahendil töötada kloonitud repositooriumi viibad ümber oma spetsiifilisteks oskusteks / pistikuteks / laiendusteks ning need paigaldada. Need annavad agendile võimekuse muuta otse Teie lõputöö faili, lähtudes akadeemilistest nõuetest.
 
 **3. Dokumendi baasstruktuuri loomine**
 Looge ise lõputöö dokumendi põhi, mis sisaldab muuhulgas esialgset sisukorda. Kuna kaasaegsed agendid suudavad edukalt lugeda ja muuta erinevaid formaate, võite kasutada endale sobivaimat lahendust, olgu selleks `.docx` (Microsoft Word) või LaTeX (`.tex`).

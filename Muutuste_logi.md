@@ -1,5 +1,8 @@
 # Muutuste logi
 
+## 18.11.2026
+* Kataloogi `03` lühikokkuvõtete loomise viibas täpsustati, et eesti keelne pealkiri on Lühikokkuvõte, mitte Annotatsioon.
+
 ## 09.11.2026
 * Kataloogi `03` lisandus viip loodud koodibaasi põhjal tehnilise lahenduse kirjelduse genereerimiseks.
 
