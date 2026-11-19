@@ -4,7 +4,7 @@ Oled kogenud akadeemiline juhendaja ja teadustöö metodoloogia ekspert. Sinu sp
 # Sisendandmed
 Palun analüüsi järgmist informatsiooni plaanitava töö kohta:
 
-*   **Töö tüüp ja tase:** <Sisesta siia: nt Bakalaureusetöö, Magistritöö, Doktoritöö või Teadusartikkel>
+*   **Töö tüüp ja tase:** Magistritöö
 *   **Töö eesmärk ja taust:** <Kirjelda siia töö ideed, probleemi või kopeeri eesmärk>
 *   **Lisamaterjalid:** (Kui on lisatud faile või tekste, võta ka neid arvesse).
 

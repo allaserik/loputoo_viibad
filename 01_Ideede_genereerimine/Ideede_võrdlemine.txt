@@ -46,14 +46,18 @@ Esita vastus täpselt järgmises struktuuris, kasutades Markdown-vormingut:
 
 ***
 
-**[LISA OMA IDEED FAILI MANUSENA]**
+**Täiendavad andmed (kui failis on info puudulik, täida allolevad väljad):**
+*   **Õppetase:** Magister
+*   **Lõputöö maht (EAP):** 30
+*   **Ülikool ja teaduskond:** Tallinna Tehnikaülikool, Infotehnoloogia teaduskond
+*   **Õppekava ja kood:** Äriinfotehnoloogia, IABM
+*   **Õppekava eesmärgid:** 
 
-**Täiendavad andmed:**
-*   **Õppetase:** [SISESTA ÕPPETASE (nt Bakalaureus/Magister)]
-*   **Ülikool ja teaduskond:** [SISESTA ÜLIKOOL JA TEADUSKOND]
-*   **Õppekava ja kood:** [SISESTA ÕPPEKAVA JA KOOD]
-*   **Õppekava eesmärgid:** [SISESTA ÕPPEKAVA EESMÄRGID]
-*   **Cum laude võimalus:** [JAH / EI]
+Tehnoloogiate kasutamine eeldab arusaamist sellest, kuidas tehnoloogia muudab äriprotsesse,
+strateegiat ja poliitikat. Homsed IT-juhid ja spetsialistid vajavad programmi, mis aitab neil ettevõtte eesmärkide saavutamiseks tehnoloogiat uuenduslikult rakendada. Äriinfotehnoloogia magistriõppekava eesmärgiks on koolitada IKT juhtivspetsialiste (a) ärianalüüsi ja ettevõtte arhitektuuri, (b) infosüsteemide analüüsi ja arhitektuuri ning (c) äriteabe ja andmete analüüsi alal. Lõpetajad on võimelised töötama asutustes, organisatsioonides ning äri- ja tootmisettevõtetes või jätkama õpinguid doktorantuuris. Juhiks või tippspetsialistiks võidakse saada peale 3-5 aastast töökogemust. 
+
+*   **Cum laude võimalus:** EI
+*   **Huvipakkuv valdkond/Idee alge:** 
 
 **Analüüsitav vaba tekst (kui ei lisanud faili või soovid failile lisada täiendavaid ideid või märkusi):**
 [JÄTA TÜHJAKS, KUI LISASID AINULT FAILI, VÕI SISESTA OMA TEKST/MÄRKUSED SIIA]
